@@ -1,0 +1,168 @@
+Binaries
+DerivedDataCache
+Intermediate
+Saved
+.vscode
+.vs
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+Build/LatestBuilds/DogsOfWar_Test_Build_v1.7z
+Build/LatestBuilds/DogsOfWar_TestBuild_v2.7z
+Build/LatestBuilds/DogsOfWar_TestBuild_v2/Windows/DogsOfWarMultiPlayer.exe
+Build/LatestBuilds/DogsOfWar_Test_Build_v1/DogsOfWarMultiPlayer.exe
+Build/LatestBuilds/DogsOfWar_Test_Build_v1/DogsOfWarMultiPlayer/Content/Paks/DogsOfWarMultiPlayer-Windows.pak
+Build/LatestBuilds/DogsOfWar_Test_Build_v1/DogsOfWarMultiPlayer/Content/Paks/DogsOfWarMultiPlayer-Windows.ucas
+Build/LatestBuilds/DogsOfWar_Test_Build_v1/DogsOfWarMultiPlayer/Content/Paks/DogsOfWarMultiPlayer-Windows.utoc
+Build/LatestBuilds/DogsOfWar_Test_Build_v1/DogsOfWarMultiPlayer/Content/Paks/global.ucas
+Build/LatestBuilds/DogsOfWar_Test_Build_v1/DogsOfWarMultiPlayer/Content/Paks/global.utoc
+Build/LatestBuilds/DogsOfWar_Test_Build_v1/Engine/Content/SlateDebug/Fonts/LastResort.tps
+Build/LatestBuilds/DogsOfWar_Test_Build_v1/Engine/Content/SlateDebug/Fonts/LastResort.ttf
+Build/LatestBuilds/DogsOfWar_Test_Build_v1/Engine/Extras/GPUDumpViewer/GPUDumpViewer.html
+Build/LatestBuilds/DogsOfWar_Test_Build_v1/Engine/Extras/GPUDumpViewer/OpenGPUDumpViewer.bat
+Build/LatestBuilds/DogsOfWar_Test_Build_v1/Engine/Extras/GPUDumpViewer/OpenGPUDumpViewer.sh
+Build/LatestBuilds/DogsOfWar_Test_Build_v1/Engine/Extras/Redist/en-us/UEPrereqSetup_x64.exe
+Build/LatestBuilds/DogsOfWar_Test_Build_v1/Manifest_DebugFiles_Win64.txt
+Build/LatestBuilds/DogsOfWar_Test_Build_v1/Manifest_NonUFSFiles_Win64.txt
+Build/LatestBuilds/DogsOfWar_Test_Build_v1/Manifest_UFSFiles_Win64.txt
+Build/LatestBuilds/DogsOfWar_TestBuild_v2/Windows/DogsOfWarMultiPlayer/Content/Paks/DogsOfWarMultiPlayer-Windows.pak
+Build/LatestBuilds/DogsOfWar_TestBuild_v2/Windows/DogsOfWarMultiPlayer/Content/Paks/DogsOfWarMultiPlayer-Windows.ucas
+Build/LatestBuilds/DogsOfWar_TestBuild_v2/Windows/DogsOfWarMultiPlayer/Content/Paks/DogsOfWarMultiPlayer-Windows.utoc
+Build/LatestBuilds/DogsOfWar_TestBuild_v2/Windows/DogsOfWarMultiPlayer/Content/Paks/global.ucas
+Build/LatestBuilds/DogsOfWar_TestBuild_v2/Windows/DogsOfWarMultiPlayer/Content/Paks/global.utoc
+Build/LatestBuilds/DogsOfWar_TestBuild_v2/Windows/Engine/Content/SlateDebug/Fonts/LastResort.tps
+Build/LatestBuilds/DogsOfWar_TestBuild_v2/Windows/Engine/Content/SlateDebug/Fonts/LastResort.ttf
+Build/LatestBuilds/DogsOfWar_TestBuild_v2/Windows/Engine/Extras/GPUDumpViewer/GPUDumpViewer.html
+Build/LatestBuilds/DogsOfWar_TestBuild_v2/Windows/Engine/Extras/GPUDumpViewer/OpenGPUDumpViewer.bat
+Build/LatestBuilds/DogsOfWar_TestBuild_v2/Windows/Engine/Extras/GPUDumpViewer/OpenGPUDumpViewer.sh
+Build/LatestBuilds/DogsOfWar_TestBuild_v2/Windows/Engine/Extras/Redist/en-us/UEPrereqSetup_x64.exe
+Build/LatestBuilds/DogsOfWar_TestBuild_v2/Windows/Manifest_DebugFiles_Win64.txt
+Build/LatestBuilds/DogsOfWar_TestBuild_v2/Windows/Manifest_NonUFSFiles_Win64.txt
+Build/LatestBuilds/DogsOfWar_TestBuild_v2/Windows/Manifest_UFSFiles_Win64.txt
+Build/LatestBuilds/DogsOfWar_TestBuild_v3/DogsOfWar_TestBuild_v3.7z
+Build/LatestBuilds/DogsOfWar_TestBuild_v3/DogsOfWar_TestBuild_v3/DogsOfWarMultiPlayer.exe
+Build/LatestBuilds/DogsOfWar_TestBuild_v3/DogsOfWar_TestBuild_v3/DogsOfWarMultiPlayer/Content/Paks/DogsOfWarMultiPlayer-Windows.pak
+Build/LatestBuilds/DogsOfWar_TestBuild_v3/DogsOfWar_TestBuild_v3/DogsOfWarMultiPlayer/Content/Paks/DogsOfWarMultiPlayer-Windows.ucas
+Build/LatestBuilds/DogsOfWar_TestBuild_v3/DogsOfWar_TestBuild_v3/DogsOfWarMultiPlayer/Content/Paks/DogsOfWarMultiPlayer-Windows.utoc
+Build/LatestBuilds/DogsOfWar_TestBuild_v3/DogsOfWar_TestBuild_v3/DogsOfWarMultiPlayer/Content/Paks/global.ucas
+Build/LatestBuilds/DogsOfWar_TestBuild_v3/DogsOfWar_TestBuild_v3/DogsOfWarMultiPlayer/Content/Paks/global.utoc
+Build/LatestBuilds/DogsOfWar_TestBuild_v3/DogsOfWar_TestBuild_v3/Engine/Content/SlateDebug/Fonts/LastResort.tps
+Build/LatestBuilds/DogsOfWar_TestBuild_v3/DogsOfWar_TestBuild_v3/Engine/Content/SlateDebug/Fonts/LastResort.ttf
+Build/LatestBuilds/DogsOfWar_TestBuild_v3/DogsOfWar_TestBuild_v3/Engine/Extras/GPUDumpViewer/GPUDumpViewer.html
+Build/LatestBuilds/DogsOfWar_TestBuild_v3/DogsOfWar_TestBuild_v3/Engine/Extras/GPUDumpViewer/OpenGPUDumpViewer.bat
+Build/LatestBuilds/DogsOfWar_TestBuild_v3/DogsOfWar_TestBuild_v3/Engine/Extras/GPUDumpViewer/OpenGPUDumpViewer.sh
+Build/LatestBuilds/DogsOfWar_TestBuild_v3/DogsOfWar_TestBuild_v3/Engine/Extras/Redist/en-us/UEPrereqSetup_x64.exe
+Build/LatestBuilds/DogsOfWar_TestBuild_v3/DogsOfWar_TestBuild_v3/Manifest_DebugFiles_Win64.txt
+Build/LatestBuilds/DogsOfWar_TestBuild_v3/DogsOfWar_TestBuild_v3/Manifest_NonUFSFiles_Win64.txt
+Build/LatestBuilds/DogsOfWar_TestBuild_v3/DogsOfWar_TestBuild_v3/Manifest_UFSFiles_Win64.txt
+Build/LatestBuilds/DogsOfWar_TestBuild_v4.7z
+Build/LatestBuilds/DogsOfWar_TestBuild_v4/Windows/DogsOfWarMultiPlayer.exe
+Build/LatestBuilds/DogsOfWar_TestBuild_v4/Windows/DogsOfWarMultiPlayer/Content/Paks/DogsOfWarMultiPlayer-Windows.pak
+Build/LatestBuilds/DogsOfWar_TestBuild_v4/Windows/DogsOfWarMultiPlayer/Content/Paks/DogsOfWarMultiPlayer-Windows.ucas
+Build/LatestBuilds/DogsOfWar_TestBuild_v4/Windows/DogsOfWarMultiPlayer/Content/Paks/DogsOfWarMultiPlayer-Windows.utoc
+Build/LatestBuilds/DogsOfWar_TestBuild_v4/Windows/DogsOfWarMultiPlayer/Content/Paks/global.ucas
+Build/LatestBuilds/DogsOfWar_TestBuild_v4/Windows/DogsOfWarMultiPlayer/Content/Paks/global.utoc
+Build/LatestBuilds/DogsOfWar_TestBuild_v4/Windows/Engine/Content/SlateDebug/Fonts/LastResort.tps
+Build/LatestBuilds/DogsOfWar_TestBuild_v4/Windows/Engine/Content/SlateDebug/Fonts/LastResort.ttf
+Build/LatestBuilds/DogsOfWar_TestBuild_v4/Windows/Engine/Extras/GPUDumpViewer/GPUDumpViewer.html
+Build/LatestBuilds/DogsOfWar_TestBuild_v4/Windows/Engine/Extras/GPUDumpViewer/OpenGPUDumpViewer.bat
+Build/LatestBuilds/DogsOfWar_TestBuild_v4/Windows/Engine/Extras/GPUDumpViewer/OpenGPUDumpViewer.sh
+Build/LatestBuilds/DogsOfWar_TestBuild_v4/Windows/Engine/Extras/Redist/en-us/UEPrereqSetup_x64.exe
+Build/LatestBuilds/DogsOfWar_TestBuild_v4/Windows/Manifest_DebugFiles_Win64.txt
+Build/LatestBuilds/DogsOfWar_TestBuild_v4/Windows/Manifest_NonUFSFiles_Win64.txt
+Build/LatestBuilds/DogsOfWar_TestBuild_v4/Windows/Manifest_UFSFiles_Win64.txt
+Build/PreviousBuilds/DogsOfWar-Menu/DogsOfWarMultiPlayer.exe
+Build/PreviousBuilds/DogsOfWar-Menu/DogsOfWarMultiPlayer/Content/Paks/DogsOfWarMultiPlayer-Windows.pak
+Build/PreviousBuilds/DogsOfWar-Menu/DogsOfWarMultiPlayer/Content/Paks/DogsOfWarMultiPlayer-Windows.ucas
+Build/PreviousBuilds/DogsOfWar-Menu/DogsOfWarMultiPlayer/Content/Paks/DogsOfWarMultiPlayer-Windows.utoc
+Build/PreviousBuilds/DogsOfWar-Menu/DogsOfWarMultiPlayer/Content/Paks/global.ucas
+Build/PreviousBuilds/DogsOfWar-Menu/DogsOfWarMultiPlayer/Content/Paks/global.utoc
+Build/PreviousBuilds/DogsOfWar-Menu/Engine/Content/SlateDebug/Fonts/LastResort.tps
+Build/PreviousBuilds/DogsOfWar-Menu/Engine/Content/SlateDebug/Fonts/LastResort.ttf
+Build/PreviousBuilds/DogsOfWar-Menu/Engine/Extras/GPUDumpViewer/GPUDumpViewer.html
+Build/PreviousBuilds/DogsOfWar-Menu/Engine/Extras/GPUDumpViewer/OpenGPUDumpViewer.bat
+Build/PreviousBuilds/DogsOfWar-Menu/Engine/Extras/GPUDumpViewer/OpenGPUDumpViewer.sh
+Build/PreviousBuilds/DogsOfWar-Menu/Engine/Extras/Redist/en-us/UEPrereqSetup_x64.exe
+Build/PreviousBuilds/DogsOfWar-Menu/FileOpenOrder/CookerOpenOrder.log
+Build/PreviousBuilds/DogsOfWar-Menu/FileOpenOrder/EditorOpenOrder.log
+Build/PreviousBuilds/DogsOfWar-Menu/Manifest_DebugFiles_Win64.txt
+Build/PreviousBuilds/DogsOfWar-Menu/Manifest_NonUFSFiles_Win64.txt
+Build/PreviousBuilds/DogsOfWar-Menu/Manifest_UFSFiles_Win64.txt
+Build/PreviousBuilds/DogsOfWarBuild/DogsOfWarMultiPlayer.exe
+Build/PreviousBuilds/DogsOfWarBuild/DogsOfWarMultiPlayer/Content/Paks/DogsOfWarMultiPlayer-Windows.pak
+Build/PreviousBuilds/DogsOfWarBuild/DogsOfWarMultiPlayer/Content/Paks/DogsOfWarMultiPlayer-Windows.ucas
+Build/PreviousBuilds/DogsOfWarBuild/DogsOfWarMultiPlayer/Content/Paks/DogsOfWarMultiPlayer-Windows.utoc
+Build/PreviousBuilds/DogsOfWarBuild/DogsOfWarMultiPlayer/Content/Paks/global.ucas
+Build/PreviousBuilds/DogsOfWarBuild/DogsOfWarMultiPlayer/Content/Paks/global.utoc
+Build/PreviousBuilds/DogsOfWarBuild/Engine/Content/SlateDebug/Fonts/LastResort.tps
+Build/PreviousBuilds/DogsOfWarBuild/Engine/Content/SlateDebug/Fonts/LastResort.ttf
+Build/PreviousBuilds/DogsOfWarBuild/Engine/Extras/GPUDumpViewer/GPUDumpViewer.html
+Build/PreviousBuilds/DogsOfWarBuild/Engine/Extras/GPUDumpViewer/OpenGPUDumpViewer.bat
+Build/PreviousBuilds/DogsOfWarBuild/Engine/Extras/GPUDumpViewer/OpenGPUDumpViewer.sh
+Build/PreviousBuilds/DogsOfWarBuild/Engine/Extras/Redist/en-us/UEPrereqSetup_x64.exe
+Build/PreviousBuilds/DogsOfWarBuild/FileOpenOrder/CookerOpenOrder.log
+Build/PreviousBuilds/DogsOfWarBuild/FileOpenOrder/EditorOpenOrder.log
+Build/PreviousBuilds/DogsOfWarBuild/Manifest_DebugFiles_Win64.txt
+Build/PreviousBuilds/DogsOfWarBuild/Manifest_NonUFSFiles_Win64.txt
+Build/PreviousBuilds/DogsOfWarBuild/Manifest_UFSFiles_Win64.txt
+Build/PreviousBuilds/Windows-working okay/DogsOfWarMultiPlayer.exe
+Build/PreviousBuilds/Windows-working okay/DogsOfWarMultiPlayer/Content/Paks/DogsOfWarMultiPlayer-Windows.pak
+Build/PreviousBuilds/Windows-working okay/DogsOfWarMultiPlayer/Content/Paks/DogsOfWarMultiPlayer-Windows.ucas
+Build/PreviousBuilds/Windows-working okay/DogsOfWarMultiPlayer/Content/Paks/DogsOfWarMultiPlayer-Windows.utoc
+Build/PreviousBuilds/Windows-working okay/DogsOfWarMultiPlayer/Content/Paks/global.ucas
+Build/PreviousBuilds/Windows-working okay/DogsOfWarMultiPlayer/Content/Paks/global.utoc
+Build/PreviousBuilds/Windows-working okay/Engine/Content/SlateDebug/Fonts/LastResort.tps
+Build/PreviousBuilds/Windows-working okay/Engine/Content/SlateDebug/Fonts/LastResort.ttf
+Build/PreviousBuilds/Windows-working okay/Engine/Extras/GPUDumpViewer/GPUDumpViewer.html
+Build/PreviousBuilds/Windows-working okay/Engine/Extras/GPUDumpViewer/OpenGPUDumpViewer.bat
+Build/PreviousBuilds/Windows-working okay/Engine/Extras/GPUDumpViewer/OpenGPUDumpViewer.sh
+Build/PreviousBuilds/Windows-working okay/Engine/Extras/Redist/en-us/UEPrereqSetup_x64.exe
+Build/PreviousBuilds/Windows-working okay/FileOpenOrder/CookerOpenOrder.log
+Build/PreviousBuilds/Windows-working okay/FileOpenOrder/EditorOpenOrder.log
+Build/PreviousBuilds/Windows-working okay/Manifest_DebugFiles_Win64.txt
+Build/PreviousBuilds/Windows-working okay/Manifest_NonUFSFiles_Win64.txt
+Build/PreviousBuilds/Windows-working okay/Manifest_UFSFiles_Win64.txt
+Build/PreviousBuilds/Windows.7z
+Build/PreviousBuilds/Windows2/DogsOfWarMultiPlayer.exe
+Build/PreviousBuilds/Windows2/DogsOfWarMultiPlayer/Content/Paks/DogsOfWarMultiPlayer-Windows.pak
+Build/PreviousBuilds/Windows2/DogsOfWarMultiPlayer/Content/Paks/DogsOfWarMultiPlayer-Windows.ucas
+Build/PreviousBuilds/Windows2/DogsOfWarMultiPlayer/Content/Paks/DogsOfWarMultiPlayer-Windows.utoc
+Build/PreviousBuilds/Windows2/DogsOfWarMultiPlayer/Content/Paks/global.ucas
+Build/PreviousBuilds/Windows2/DogsOfWarMultiPlayer/Content/Paks/global.utoc
+Build/PreviousBuilds/Windows2/Engine/Content/SlateDebug/Fonts/LastResort.tps
+Build/PreviousBuilds/Windows2/Engine/Content/SlateDebug/Fonts/LastResort.ttf
+Build/PreviousBuilds/Windows2/Engine/Extras/GPUDumpViewer/GPUDumpViewer.html
+Build/PreviousBuilds/Windows2/Engine/Extras/GPUDumpViewer/OpenGPUDumpViewer.bat
+Build/PreviousBuilds/Windows2/Engine/Extras/GPUDumpViewer/OpenGPUDumpViewer.sh
+Build/PreviousBuilds/Windows2/Engine/Extras/Redist/en-us/UEPrereqSetup_x64.exe
+Build/PreviousBuilds/Windows2/FileOpenOrder/CookerOpenOrder.log
+Build/PreviousBuilds/Windows2/FileOpenOrder/EditorOpenOrder.log
+Build/PreviousBuilds/Windows2/Manifest_DebugFiles_Win64.txt
+Build/PreviousBuilds/Windows2/Manifest_NonUFSFiles_Win64.txt
+Build/PreviousBuilds/Windows2/Manifest_UFSFiles_Win64.txt
+Build/Windows/FileOpenOrder/CookerOpenOrder.log
+Build/Windows/FileOpenOrder/EditorOpenOrder.log
+Build/DogsOfWarBuildCombat.7z
+Build/DogsOfWarBuildCombat/DogsOfWarMultiPlayer.exe
+Build/DogsOfWarBuildCombat/DogsOfWarMultiPlayer/Content/Paks/DogsOfWarMultiPlayer-Windows.pak
+Build/DogsOfWarBuildCombat/DogsOfWarMultiPlayer/Content/Paks/DogsOfWarMultiPlayer-Windows.ucas
+Build/DogsOfWarBuildCombat/DogsOfWarMultiPlayer/Content/Paks/DogsOfWarMultiPlayer-Windows.utoc
+Build/DogsOfWarBuildCombat/DogsOfWarMultiPlayer/Content/Paks/global.ucas
+Build/DogsOfWarBuildCombat/DogsOfWarMultiPlayer/Content/Paks/global.utoc
+Build/DogsOfWarBuildCombat/Engine/Content/SlateDebug/Fonts/LastResort.tps
+Build/DogsOfWarBuildCombat/Engine/Content/SlateDebug/Fonts/LastResort.ttf
+Build/DogsOfWarBuildCombat/Engine/Extras/GPUDumpViewer/GPUDumpViewer.html
+Build/DogsOfWarBuildCombat/Engine/Extras/GPUDumpViewer/OpenGPUDumpViewer.bat
+Build/DogsOfWarBuildCombat/Engine/Extras/GPUDumpViewer/OpenGPUDumpViewer.sh
+Build/DogsOfWarBuildCombat/Engine/Extras/Redist/en-us/UEPrereqSetup_x64.exe
+Build/DogsOfWarBuildCombat/FileOpenOrder/CookerOpenOrder.log
+Build/DogsOfWarBuildCombat/FileOpenOrder/EditorOpenOrder.log
+Build/DogsOfWarBuildCombat/Manifest_DebugFiles_Win64.txt
+Build/DogsOfWarBuildCombat/Manifest_NonUFSFiles_Win64.txt
+Build/DogsOfWarBuildCombat/Manifest_UFSFiles_Win64.txt
+Resources/PSD.zip
